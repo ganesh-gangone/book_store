@@ -134,9 +134,9 @@ header {
 /* middle content*/
 #hero{
     width: 100%;
-    height: 500px;
+    height: 675px;
 
-    background: url(img/07.jpg);
+    background: url(back2.jpg);
     
     background-size: cover;
     background-position: center;
@@ -157,7 +157,7 @@ header {
     line-height: 60px;
     cursor: pointer;
     transition: all 0.5s ease-in-out;
-    margin-top: 100px;
+    margin-top: 7px;
 
 }
 #hero .contentbox p{
@@ -173,11 +173,13 @@ header {
     background: #DDC8AF;
     color: #2a2a2a;
     border: none;
+    margin-top: 39px;
     border-radius: 0;
     font-size: 16px;
     line-height: 30px;
     display: inline-block;
     transition: all 0.3s ease-in-out;
+    border-radius: 18px;
 }
 #hero .contentbox h1:hover{
     transform: scale(1.12);
