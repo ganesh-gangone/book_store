@@ -191,9 +191,9 @@ header {
     transition: all 0.3s ease-in-out;
   
 }
-#hero .contentbox h1:hover{
+/*#hero .contentbox h1:hover{
     transform: scale(1.12);
-}
+}*/
 #hero .contentbox a:hover{
     background: #2a2a2a;
     color:#DDC8Af;
@@ -203,6 +203,26 @@ header {
 }
 #para{
     padding: 50px;
+}
+.searchbar{
+    padding: 8px;
+    width: 550px;
+    margin-bottom: 20px;
+    border: none;
+    text-align: center;
+    
+}
+.search{
+    padding: 8px;
+    color: #2a2a2a;
+    background:#DDC8Af;
+    transition: all 0.5s ease;
+    border: none;
+    cursor: pointer;
+}
+.search:hover{
+    background: #2a2a2a;
+    color:#DDC8Af
 }
 
 /* ---------------------code for Activites cards-----------------------*/
