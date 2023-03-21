@@ -160,6 +160,16 @@ header {
     margin-top: 7px;
 
 }
+#hero .contentbox h3{
+    font-size: 50px;
+    color: #DDC8AF;
+    padding-bottom: 30px;
+    line-height: 60px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+    margin-top: 7px;
+
+}
 #hero .contentbox p{
     font-family: 'Prata', serif;
     font-size: 16px;
@@ -179,7 +189,7 @@ header {
     line-height: 30px;
     display: inline-block;
     transition: all 0.3s ease-in-out;
-    border-radius: 18px;
+  
 }
 #hero .contentbox h1:hover{
     transform: scale(1.12);
