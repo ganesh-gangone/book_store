@@ -138,6 +138,7 @@ header {
 
     background: url(back2.jpg);
     
+
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -148,7 +149,7 @@ header {
 #hero .contentbox{
     width: 60%;
     text-align: center;
-
+    
 }
 #hero .contentbox h1{
     font-size: 70px;
@@ -184,10 +185,11 @@ header {
     color: #2a2a2a;
     border: none;
     margin-top: 39px;
-    border-radius: 0;
+    border-radius: 15px;
     font-size: 16px;
     line-height: 30px;
     display: inline-block;
+
     transition: all 0.3s ease-in-out;
   
 }
@@ -210,6 +212,7 @@ header {
     margin-bottom: 20px;
     border: none;
     text-align: center;
+    border-radius: 20px ;
     
 }
 .search{
@@ -219,6 +222,7 @@ header {
     transition: all 0.5s ease;
     border: none;
     cursor: pointer;
+    border-radius:  18px;
 }
 .search:hover{
     background: #2a2a2a;
@@ -263,7 +267,7 @@ header {
     flex-direction: column;
     justify-content: space-between;
     padding: 20px 20px 40px;
-    
+    border-radius: 0px 30px;
     transition: all .5s ease;
 }
 .product:hover{
@@ -309,6 +313,7 @@ p{
     text-transform: capitalize;
     cursor: pointer;
     transition: all 0.5s ease-in-out;
+    border-radius: 0px 10px;
 }
 .buyy button:hover{
     background: #2a2a2a;
