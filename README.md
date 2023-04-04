@@ -7,3 +7,7 @@ Users can add their all favourite books in cart and purchase all at once.
 
 # How to execute:
 The execution starts from index.html
+
+
+# Link to the landing Page:
+https://ganesh-gangone.github.io/book_store/
